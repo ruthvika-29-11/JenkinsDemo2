@@ -1,4 +1,4 @@
-CommanLineDemo2
+class CommanLineDemo2
 {
 public static void main(String[] args)
 {
